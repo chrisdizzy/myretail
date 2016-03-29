@@ -1,1 +1,1 @@
-myretail is a one stop web service for retrieving skuids and their product details
+myretail is a one stop web service for retrieving productId and their details such as price.
